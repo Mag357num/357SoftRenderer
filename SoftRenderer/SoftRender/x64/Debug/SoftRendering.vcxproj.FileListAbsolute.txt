@@ -1,0 +1,2 @@
+F:\WorkPlace\SoftRenderer\SoftRender\x64\Debug\SoftRendering.exe
+I:\CppWork\357SoftRenderer\SoftRenderer\SoftRender\x64\Debug\SoftRendering.exe
